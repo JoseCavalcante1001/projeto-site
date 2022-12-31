@@ -7,6 +7,16 @@ body {
     background-color: rgb(3, 102, 189);
 }
 
+.h1{
+    font-size: 36px;
+    color: rgb(5, 5, 117);
+}
+
+.h2{
+    font-size: 26px;
+    color: rgb(7, 7, 162);
+}
+
 main {
     background-color: white;
     width: 500px;
